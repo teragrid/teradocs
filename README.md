@@ -1,10 +1,6 @@
 # Teragrid Technical White Paper
 
 - [English](TechnicalWhitePaper.md)
-- [Russian](ru/TechnicalWhitePaper.md) We are waiting for your contribution <3
-- [Chinese](cn/TechnicalWhitePaper.md) We are waiting for your contribution <3
-- [Japanese](jp/TechnicalWhitePaper.md) We are waiting for your contribution <3
-- [Korean](ko/TechnicalWhitePaper.md) We are waiting for your contribution <3
 
 # Teragrid Wiki
 
