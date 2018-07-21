@@ -1,10 +1,10 @@
 # Teragrid Technical White Paper
 
 - [English](TechnicalWhitePaper.md)
-- [Russian](ru/TechnicalWhitePaper.md)
-- [Chinese](cn/TechnicalWhitePaper.md)
-- [Japanese](jp/TechnicalWhitePaper.md)
-- [Korean](ko/TechnicalWhitePaper.md)
+- [Russian](ru/TechnicalWhitePaper.md) We are waiting for your contribution <3
+- [Chinese](cn/TechnicalWhitePaper.md) We are waiting for your contribution <3
+- [Japanese](jp/TechnicalWhitePaper.md) We are waiting for your contribution <3
+- [Korean](ko/TechnicalWhitePaper.md) We are waiting for your contribution <3
 
 # Teragrid Wiki
 
@@ -12,7 +12,4 @@
 
 # Translation Guide
 
-[![Crowdin]](https://crowdin.com/project/teradocs)
-
-If you want to add new language, review/update existing translation or help to finish specific translations, you can join and do that by following link:
-https://crowdin.com/project/teradocs
+If you want to add new language, review/update existing translation or help to finish specific translations, you can join and do that by contacting us via contact@teragrid.network!
