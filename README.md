@@ -1,6 +1,6 @@
 # Teragrid Technical White Paper
 
-- [English](TechnicalWhitePaper.md)
+- [English](https://github.com/teragrid/teradocs/wiki/Teragrid-White-Paper)
 
 # Teragrid Wiki
 
